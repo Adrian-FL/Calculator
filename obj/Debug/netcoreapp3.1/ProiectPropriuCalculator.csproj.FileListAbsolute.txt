@@ -1,0 +1,13 @@
+C:\WorkSpace\ECUtbildning\C#\ProiectPropriuCalculator\bin\Debug\netcoreapp3.1\ProiectPropriuCalculator.exe
+C:\WorkSpace\ECUtbildning\C#\ProiectPropriuCalculator\bin\Debug\netcoreapp3.1\ProiectPropriuCalculator.deps.json
+C:\WorkSpace\ECUtbildning\C#\ProiectPropriuCalculator\bin\Debug\netcoreapp3.1\ProiectPropriuCalculator.runtimeconfig.json
+C:\WorkSpace\ECUtbildning\C#\ProiectPropriuCalculator\bin\Debug\netcoreapp3.1\ProiectPropriuCalculator.runtimeconfig.dev.json
+C:\WorkSpace\ECUtbildning\C#\ProiectPropriuCalculator\bin\Debug\netcoreapp3.1\ProiectPropriuCalculator.dll
+C:\WorkSpace\ECUtbildning\C#\ProiectPropriuCalculator\bin\Debug\netcoreapp3.1\ProiectPropriuCalculator.pdb
+C:\WorkSpace\ECUtbildning\C#\ProiectPropriuCalculator\obj\Debug\netcoreapp3.1\ProiectPropriuCalculator.csprojAssemblyReference.cache
+C:\WorkSpace\ECUtbildning\C#\ProiectPropriuCalculator\obj\Debug\netcoreapp3.1\ProiectPropriuCalculator.AssemblyInfoInputs.cache
+C:\WorkSpace\ECUtbildning\C#\ProiectPropriuCalculator\obj\Debug\netcoreapp3.1\ProiectPropriuCalculator.AssemblyInfo.cs
+C:\WorkSpace\ECUtbildning\C#\ProiectPropriuCalculator\obj\Debug\netcoreapp3.1\ProiectPropriuCalculator.csproj.CoreCompileInputs.cache
+C:\WorkSpace\ECUtbildning\C#\ProiectPropriuCalculator\obj\Debug\netcoreapp3.1\ProiectPropriuCalculator.dll
+C:\WorkSpace\ECUtbildning\C#\ProiectPropriuCalculator\obj\Debug\netcoreapp3.1\ProiectPropriuCalculator.pdb
+C:\WorkSpace\ECUtbildning\C#\ProiectPropriuCalculator\obj\Debug\netcoreapp3.1\ProiectPropriuCalculator.genruntimeconfig.cache
